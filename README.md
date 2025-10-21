@@ -8,4 +8,4 @@ I know the basics of cpp, python, c#.
 ## My first edit in Codespaces
 thats very cool
 
-![Alt_Text](./ss.jpeg)
+![Alt_Text](./ss.jpg)
